@@ -1,0 +1,2 @@
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto.UWP\BrizuelaRuizEsau_Proyecto.UWP.csproj;arm
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\BrizuelaRuizEsau_Proyecto.csproj;neutral

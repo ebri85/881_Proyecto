@@ -1,0 +1,14 @@
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\BrizuelaRuizEsau_Proyecto.dll
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\BrizuelaRuizEsau_Proyecto.pdb
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\obj\Debug\BrizuelaRuizEsau_Proyecto.MainPage.xaml.g.cs
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\obj\Debug\BrizuelaRuizEsau_Proyecto.App.xaml.g.cs
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\obj\Debug\BrizuelaRuizEsau_Proyecto.dll
+C:\Users\esau_br\Documents\881_Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau-Proyecto\BrizuelaRuizEsau_Proyecto\obj\Debug\BrizuelaRuizEsau_Proyecto.pdb
